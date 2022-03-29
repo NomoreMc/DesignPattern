@@ -1,3 +1,7 @@
 # C++
 *.o
 *.out
+test
+
+# development env staff
+.vscode
